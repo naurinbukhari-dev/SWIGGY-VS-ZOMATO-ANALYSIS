@@ -20,10 +20,10 @@ This project presents a comparative analysis of Swiggy and Zomato using Power BI
 ## Author
 Naurin Bukhari
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-Swiggy Vs Zomato Dashboard Preview (2).png
+![Swiggy vs Zomato Power BI Dashboard](<Swiggy Vs Zomato Dashboard Preview (2).png>)
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard](Swiggy%20VS%20Zomato%20Dashboard%20Preview.png)
+![Swiggy vs Zomato Dashboard](Swiggy%20Vs%20Zomato%20Dashboard%20Preview%20(2).png)
