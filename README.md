@@ -25,6 +25,8 @@ Naurin Bukhari
 
 ![Swiggy vs Zomato Dashboard](dashboard-preview.png)
 
-### 📊 Power BI Dashboard Preview
 
-![Dashboard](Swiggy%20VS%20Zomato%20Dashboard%20Preview.png)
+## 📊 Power BI Dashboard Preview
+
+![Swiggy vs Zomato Dashboard](Swiggy%20Vs%20Zomato%20Dashboard%20Preview%20(2).png)
+
